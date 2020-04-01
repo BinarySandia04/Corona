@@ -1,0 +1,11 @@
+name: Corona
+version: 0.1
+main: com.aran.corona.Main
+api-version: 1.13
+authors: [Syndria98]
+description: Plugin de Maincra per veure info del Covid-19
+website: http://syndria.ooguy.com
+commands:
+  corona:
+    description: Corona info!
+    usage: /corona
